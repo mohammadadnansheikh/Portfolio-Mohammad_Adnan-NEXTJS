@@ -1,7 +1,7 @@
-import Link from "next/Link";
+import Link from "next/link";
 import { HiDownload } from "react-icons/hi";
 import { FiMenu } from "react-icons/fi";
-import { useState } from "react";
+
 
 const Navbar = ({toggleSidebar}) => {
   return (

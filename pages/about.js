@@ -5,7 +5,6 @@ import { TbPacman } from "react-icons/tb";
 import { IoLocationOutline } from "react-icons/io5";
 
 import Heading from "../components/Heading";
-import Button from "../components/Button";
 import Navbar from "../components/Navbar";
 import Sidebar from "../components/Sidebar";
 import { HiMail } from "react-icons/hi";

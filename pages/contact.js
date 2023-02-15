@@ -17,7 +17,7 @@ const Contact = () => {
   const [isOpen, setIsOpen] = useState(false);
   const [state, setState] = useState(initialState);
   const { values } = state;
-  const [message, SetMessage] = useState()
+
 
   const handleChange = ({ target }) =>
     setState((prev) => ({
