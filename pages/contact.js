@@ -57,7 +57,6 @@ const Contact = () => {
       <section className="container  mx-auto py-10 px-4">
         <Heading title="Contact Us" />
         <form action="" className="flex flex-col gap-8 w-[75%] mx-auto">
-          <label htmlFor="name">Name</label>
           <input
             type="text"
             placeholder="Name"
