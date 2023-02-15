@@ -26,8 +26,8 @@ const Navbar = ({toggleSidebar}) => {
           </Link>
         </div>
         <a
-          href="Resume_Mohammad Adnan.pdf"
-          download="Resume_Mohammad Adnan.pdf"
+          href="Resume-Mohammad Adnan.pdf"
+          download="Resume-Mohammad Adnan.pdf"
           className="hidden md:flex border border-[#ff4d41] px-4 py-1 text-[#ff4d41] rounded-[5px] items-center gap-2 hover:bg-[#ff4d41] hover:text-white tansition duration-200"
         >
            Resume
