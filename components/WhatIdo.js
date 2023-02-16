@@ -19,7 +19,7 @@ const WhatIdo = () => {
         </div>
         <div className="shadow-lg flex flex-col gap-4 px-8 py-10 bg-[#ff4d41] text-white">
           <BsServer className="text-[28px]" />
-          <h2 className="font-medium text-[20px]">Java Backend Developement</h2>
+          <h2 className="font-medium text-[20px]">Java Backend Development</h2>
           <p>
             I have Knowledge to create the backend of web application with the Java Springboot.
             Created REST API for the Users informations table using in memory h2-databases.
