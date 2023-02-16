@@ -19,8 +19,8 @@ const Skill = () => {
         <Heading title="Skills" />
         <p className="text-gray-600 mt-10 mb-10">
           I am Fullstack Developer, proficient in MERN stack and my other
-          skillset are java, nestjs, sql problem solving skill, critical
-          thinking, interpersonell communication etc.
+          skillset are java, nestjs, mysql, problem solving skill, critical
+          thinking, interpersonal communication etc.
         </p>
         <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
           <div>
