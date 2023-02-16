@@ -26,7 +26,7 @@ const Hero = () => {
                 </div>
                 <div>
                     <p>
-                        I am proficient in Full Stack Developement worked on various projects.
+                        I am proficient in Full Stack Development worked on various projects.
                         
                     </p>
                 </div>
